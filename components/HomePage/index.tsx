@@ -70,7 +70,7 @@ const HomePage: NextPage = () => {
         <div className="font-playBall tracking-[0.5rem]  text-2xl ">
           Skilled in
           <span className="text-[2rem] tracking-wider text-purple-600">
-            <Typed
+            <Typed 
               strings={["TypeScript", "React", "NextJS", "Tailwind"]}
               typeSpeed={15}
               backSpeed={10}
